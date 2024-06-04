@@ -1,0 +1,25 @@
+body{
+     border:1px solid blue;
+     width:400px;
+     margin-top: 40px;
+     margin-left: 200px;
+     padding-bottom: 20px;
+}
+button{
+    width: 250px;
+    background-color: rgb(171, 16, 94);
+    color: bisque;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+h1{
+    margin-left: 80px;
+}
+input{
+    width:200px;
+    margin-left: 80px;
+}
+input ,button,h1{
+    border-radius: 10px ;
+   
+}
